@@ -101,23 +101,23 @@ The entire project, including training and evaluation, is expected to run in app
 
 In this two-class problem, all of the evaluated pre-trained models perform exceptionally well in distinguishing between TB and normal images. Deep Forest outperforms the other networks trained with X-ray images without segmentation when it comes to classifying the X-ray images, according to the results.
 
-![](images/Screenshot%20(55)-01.png){width="461"}
+![deep forest result](https://github.com/user-attachments/assets/3a5aabb3-80b5-4fc2-b88e-32143e7b3520)
 
-![](images/Screenshot%20(56)-01.png){width="392"}
+![deep forest confusion matrix](https://github.com/user-attachments/assets/0845bab4-07bf-4fab-9d58-05dc97e4de13)
 
 Fig: Deep forest Predicted label vs True label
 
-#### ![](images/Screenshot%20(57).png){width="376"}
+![dense net acc plot](https://github.com/user-attachments/assets/63fdbde8-455b-4d3b-83fa-d8b4933aa189)
 
-![](images/Screenshot%20(58).png){width="366"}
+![dense net loss plot (2)](https://github.com/user-attachments/assets/b1c7bc3d-98e8-4e58-9a7f-11793fe5112c)
 
 Fig : Dense Net Accuracy and Loss Plot
 
-![](images/Screenshot%20(59).png){width="344"}
+![DN confusion mat](https://github.com/user-attachments/assets/c0886fda-c93a-4253-8db3-3dfa8892f721)
 
 Fig:DenseNet Predicted label Vs True label
 
-![](images/Screenshot%20(60).png){width="390"}
+![DN result](https://github.com/user-attachments/assets/36990997-878c-43ef-ab2c-d0b806da2db0)
 
 #### License
 
