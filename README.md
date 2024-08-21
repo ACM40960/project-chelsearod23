@@ -1,4 +1,4 @@
-## Tuberculosis Classification in Chest X-ray Images using DenseNet and Deep Forest Models
+## Tuberculosis Chest X-ray classification using DenseNet and Deep Forest 
 
 #### Author
 
